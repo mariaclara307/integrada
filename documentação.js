@@ -1,3 +1,4 @@
+
 function showSection(section) {
     // Esconde todas as seções
     document.querySelectorAll('section').forEach(function(sec) {
