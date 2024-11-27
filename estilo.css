@@ -1,53 +1,53 @@
- html, body {
-            height: 100%;
-            margin: 0;
-            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PluKFWPXUGanZ9NS0mNBYuDpdE7Aeq5MfQ&s1');
-            background-size: cover;
-            background-position: center;
-            color: #ffffff;
-            overflow-x: hidden;
-        }
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            background-color: #713b00;
-            color: #ffffff;
-        }
-        header {
-            background-color: #4a2400 ;
-            color: white;
-        }
-        footer {
-            background-color: #2b1700d2;
-            color: white;
-        }
-        main {
-            height: calc(100% - 100px);
-            padding: 20px;
-            overflow-y: auto;
-        }
-        section {
-            background-color: #4d2300;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 2px 10px rgba(178, 92, 42, 0.5);
-            margin-bottom: 20px;
-        }
-        .list-group-item {
-            cursor: pointer;
-            transition: background-color 0.3s;
-            background-color: #a26413;
-            color: #f8f9fa;
-        }
-        .list-group-item:hover {
-            background-color: #fcb354;
-        }
-        h2 {
-            color: #ffe8a2;
-        }
-        .img-discipline {
-            max-width: 100%;
-            height: auto;
-            margin-top: 15px;
-        }
+html, body {
+    height: 100%;
+    margin: 0;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PluKFWPXUGanZ9NS0mNBYuDpdE7Aeq5MfQ&s1');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #713b00;
+    color: #ffffff;
+}
+header {
+    background-color: #4a2400 ;
+    color: white;
+}
+footer {
+    background-color: #2b1700d2;
+    color: white;
+}
+main {
+    height: calc(100% - 100px);
+    padding: 20px;
+    overflow-y: auto;
+}
+section {
+    background-color: #4d2300;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(178, 92, 42, 0.5);
+    margin-bottom: 20px;
+}
+.list-group-item {
+    cursor: pointer;
+    transition: background-color 0.3s;
+    background-color: #a26413;
+    color: #f8f9fa;
+}
+.list-group-item:hover {
+    background-color: #fcb354;
+}
+h2 {
+    color: #ffe8a2;
+}
+.img-discipline {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
